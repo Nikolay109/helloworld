@@ -1,2 +1,2 @@
 all:
-	g++ HW.cpp -o test
+	g++ HW.cpp myclass.h -o test
