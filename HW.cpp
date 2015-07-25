@@ -1,5 +1,8 @@
-#include<iostream>
-using namespace std;
+#include <iostream>
+#include "myclass.h"
+
 int main(){
-	cout<<"HW"<<endl;
+    MyClass A;
+    std::cout << "hello world"<< A.test(1) << std::endl;
+	
 }
