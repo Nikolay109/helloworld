@@ -3,3 +3,4 @@ all:
 	g++ HW.cpp myclass.h -o test
 	g++ runner.cpp -o runner
 	./runner
+	./test
