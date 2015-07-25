@@ -1,4 +1,3 @@
-#ifndef CXXTEST_RUNNING
 #include <iostream>
 #include "myclass.h"
 
